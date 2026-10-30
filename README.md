@@ -64,5 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-caller-kit-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://caller-kit.com/
+CallerKit provides a Caller ID API and global phone lookup service, offering access to a database of over 3 billion phone numbers with verified contact names and aliases. The platform supports real‑time search by number, name, or email, bulk verification, and enriched data delivery for developers, CRMs, verification systems, and other applications. Features include fast, scalable lookups, rate‑limited API access, detailed analytics, and secure encrypted data handling.
+
+**Areas:** Company · API · PhoneLookup · CallerID · DataEnrichment
+
+## caller-kit-com on APIs.io
+
+Everything profiled for caller-kit-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/caller-kit-com/](https://apis.io/providers/caller-kit-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- CallerKit API — CallerKit provides a Caller ID API and global phone lookup service as described on the documentation page.
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://caller-kit.com/)
+- [Documentation](https://caller-kit.com/docs)
+- [Getting started](https://caller-kit.com/get-started-now)
+- [API reference](https://caller-kit.com/docs)
+- [Pricing](https://caller-kit.com/pricing)
+- [Terms of service](https://caller-kit.com/page/terms-conditions)
+- [Privacy policy](https://caller-kit.com/page/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/caller-kit-com/](https://apis.io/providers/caller-kit-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for caller-kit-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/caller-kit-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
