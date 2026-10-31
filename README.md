@@ -74,9 +74,17 @@ Everything profiled for caller-kit-com is published on APIs.io rather than in th
 
 ### APIs (1)
 
-- CallerKit API — CallerKit provides a Caller ID API and global phone lookup service as described on the documentation page.
+- [CallerKit API](https://apis.io/apis/caller-kit-com/callerkit-api/) — CallerKit provides a Caller ID API and global phone lookup service as described on the documentation page.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Caller Kit Com Domain Security](https://apis.io/security/caller-kit-com/caller-kit-com-domain-security/)
 
 ## Where to find this API
 
@@ -84,15 +92,54 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://caller-kit.com/)
 - [Documentation](https://caller-kit.com/docs)
-- [Getting started](https://caller-kit.com/get-started-now)
 - [API reference](https://caller-kit.com/docs)
 - [Pricing](https://caller-kit.com/pricing)
 - [Terms of service](https://caller-kit.com/page/terms-conditions)
 - [Privacy policy](https://caller-kit.com/page/privacy-policy)
+- [GitHub](https://github.com/callerkit01)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/caller-kit-com/](https://apis.io/providers/caller-kit-com/).
+**Kin Score 19.9** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 31.6 |
+
+**Agent readiness 17.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/caller-kit-com/](https://apis.io/providers/caller-kit-com/).
 
 ## How this profile is made
 
